@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I know Japanese <img width="20" height="15" src="https://img.icons8.com/color/48/torii.png" alt="torii"/>.
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/color/48/google-colab.png" alt="google-colab"/>
 
