@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me Surendhar
 
-**MBA (Business analyst) student** @ RVS IMSR
+***MBA (Business analytics) student*** @ RVS IMSR
 <img align="right" width="470" height="230" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*mY7-_HseAw99fBS9Cb3tSw.gif">                                                 
 - 🌱 I’m currently learning Data science
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔 I’m looking for Placement in **Analytics**
+- 🤔 I’m looking for Placement in ***Analytics***
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surendhar-b-838922244/)
 - 😄 Pronoun: Analyst
