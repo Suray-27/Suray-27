@@ -20,12 +20,12 @@ I'm a passionate developer with a love for coding and technology. I enjoy workin
 
 ## 🔧 Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit-learn-333333?style=flat&logo=Scikit-learn)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-333333?style=flat&logo=BeautifulSoup)
-![Scrapy](https://img.shields.io/badge/-Scrapy-333333?style=flat&logo=Scrapy)
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![PowerBI](https://img.shields.io/badge/PowerBI-333333?style=for-the-badge&logo=PowerBI)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=Pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-333333?style=for-the-badge&logo=Scikit-learn)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-333333?style=for-the-badge&logo=BeautifulSoup)
+![Scrapy](https://img.shields.io/badge/Scrapy-333333?style=for-the-badge&logo=Scrapy)
 
 ## 📈 GitHub Stats
 
